@@ -1,2 +1,2 @@
 # SecondprojectJavascript
-Created a music app with the help of internet
+Created a music app with JAVASCRIPT HTML CSS
